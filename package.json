@@ -41,7 +41,7 @@
     "base-questions": "^0.9.1",
     "base-runtimes": "^0.2.0",
     "cross-spawn": "^5.0.1",
-    "engine-handlebars": "^0.8.0",
+    "engine-handlebars": "0.8.0",
     "export-files": "^2.1.1",
     "fs-exists-sync": "^0.1.0",
     "global-modules": "^0.2.3",
